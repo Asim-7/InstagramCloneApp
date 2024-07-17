@@ -28,14 +28,14 @@
 
 ### Post, comment, like and new post
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/f90ef7de-3e5b-4693-a55a-f234d750c754" alt="Screenshot 2" width="22%">  
-  <img src="https://github.com/user-attachments/assets/7fca3700-2d07-45eb-8837-5f22c8730455" alt="Screenshot 1" width="22%">
-  <img src="https://github.com/user-attachments/assets/207c80b2-38f3-4b2c-95f7-1d3b9b9dd9a0" alt="Screenshot 2" width="22%">
-  <img src="https://github.com/user-attachments/assets/178d132f-6dfe-48da-b9df-dd33856931f9" alt="Screenshot 2" width="22%">  
+  <img src="https://github.com/user-attachments/assets/0b2554a9-f2f4-4bcc-b687-a3a1b9ec263c" alt="Screenshot 2" width="22%">  
+  <img src="https://github.com/user-attachments/assets/26dbf81a-bb71-4b23-a92f-0fdf95d01f7e" alt="Screenshot 1" width="22%">
+  <img src="https://github.com/user-attachments/assets/4abd9e03-5ea9-47f6-aa79-ee8c42a6c983" alt="Screenshot 2" width="22%">
+  <img src="https://github.com/user-attachments/assets/3e345f71-6b6d-41f9-ac9b-c580735e9a93" alt="Screenshot 2" width="22%">  
 </div>
 
 ### Edit profile and story views
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/8aee42da-5644-4923-a355-443fa5930e8e" alt="Screenshot 2" width="22%">  
-  <img src="https://github.com/user-attachments/assets/0f05d710-5254-44f9-ab70-8f057091932e" alt="Screenshot 1" width="22%"> 
+  <img src="https://github.com/user-attachments/assets/bc1951a1-4eec-486f-a993-be4b1593ebd3" alt="Screenshot 2" width="22%">  
+  <img src="https://github.com/user-attachments/assets/2f99d4a0-47ce-41b9-87b4-6eda38b9b458" alt="Screenshot 1" width="22%"> 
 </div>
