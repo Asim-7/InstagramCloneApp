@@ -15,11 +15,13 @@ import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.Fragment
-import com.example.instagramcloneapp.Fragments.HomeFragment
-import com.example.instagramcloneapp.Fragments.NotificationsFragment
-import com.example.instagramcloneapp.Fragments.ProfileFragment
-import com.example.instagramcloneapp.Fragments.SearchFragment
+import com.example.instagramcloneapp.fragments.HomeFragment
+import com.example.instagramcloneapp.fragments.NotificationsFragment
+import com.example.instagramcloneapp.fragments.ProfileFragment
+import com.example.instagramcloneapp.fragments.SearchFragment
 import com.example.instagramcloneapp.databinding.ActivityMainBinding
+import com.example.instagramcloneapp.screens.feed.AddPostActivity
+import com.example.instagramcloneapp.screens.login.SignInActivity
 import com.google.firebase.auth.FirebaseAuth
 
 class MainActivity : AppCompatActivity() {
