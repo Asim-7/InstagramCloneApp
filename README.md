@@ -13,16 +13,17 @@
 
 ### Login, sign up
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/c3ed36e4-f0ae-4224-a1d2-b65a40968b44" alt="Screenshot 2" width="22%">
-  <img src="https://github.com/user-attachments/assets/4a40312e-47f2-476d-9a30-75efba29252b" alt="Screenshot 3" width="22%">
+  <img src="https://github.com/user-attachments/assets/a60959e2-f7f8-48d3-a7ea-e6a9c607a654" alt="Screenshot 2" width="22%">
+  <img src="https://github.com/user-attachments/assets/cb100a59-6191-4e94-8da7-ebfe3a890641" alt="Screenshot 3" width="22%">
 </div>
+
 
 ### Main screens
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/0185ea16-7d61-432b-8250-315b93078802" alt="Screenshot 1" width="22%">
-  <img src="https://github.com/user-attachments/assets/c0adaef6-3f06-4eec-8825-b22ce8c73a18" alt="Screenshot 2" width="22%">
-  <img src="https://github.com/user-attachments/assets/da759189-a30a-4bfe-ad80-cc7804cdb819" alt="Screenshot 3" width="22%">
-  <img src="https://github.com/user-attachments/assets/ab8ce181-d483-496a-9595-12190ded3144" alt="Screenshot 1" width="22%">
+  <img src="https://github.com/user-attachments/assets/aa1d2a2f-74c7-4e20-869d-f09aca0752f6" alt="Screenshot 1" width="22%">
+  <img src="https://github.com/user-attachments/assets/b527dc24-a59a-41b1-be8b-73fa686dad1d" alt="Screenshot 2" width="22%">
+  <img src="https://github.com/user-attachments/assets/ba9b1a35-9f75-4c6f-b332-634346d66657" alt="Screenshot 3" width="22%">
+  <img src="https://github.com/user-attachments/assets/a8df846a-0451-44bf-9952-03190f3585b3" alt="Screenshot 1" width="22%">
 </div>
 
 ### Post, comment, like and new post
